@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 765a2151fd7a94649bc34b1ba734f00f, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0.01996851, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -101,10 +101,10 @@ GameObject:
   - component: {fileID: 860372734109116000}
   - component: {fileID: 6583989533657727566}
   - component: {fileID: 6931757595493188814}
-  - component: {fileID: 7565066377892007568}
+  - component: {fileID: 7280291758120365759}
   m_Layer: 0
-  m_Name: Peggle
-  m_TagString: Peggle
+  m_Name: PeggleCombo
+  m_TagString: PeggleCombo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -173,8 +173,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 142f9d6e6c452d64391e2dfca28e9e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  addPoints: 100
---- !u!114 &7565066377892007568
+  addPoints: 75
+--- !u!114 &7280291758120365759
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

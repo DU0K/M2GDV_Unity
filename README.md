@@ -4,5 +4,9 @@
 ##les 1.2
 
 
-![gif](opdracht1_4.gif)
-##les 1.4
+![gif](opdracht2_2.gif)
+##les 2.2
+
+
+![gif](opdracht3_2.gif)
+##les 3.2
