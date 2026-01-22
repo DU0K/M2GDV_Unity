@@ -9,7 +9,10 @@
 
 ![gif](opdracht2_2.gif)
 ## les 2.2
+# hier heb ik het kannon gemaakt dat ballen schiet.
+# ook heb ik hier de peggles al gemaakt
 
 
 ![gif](opdracht3_2.gif)
 ## les 3.2
+# hier heb ik variatie toegevoegt in de peggles om de combosystem te laten werken deze is hier ook al toegevoegt. ik heb hier helaas geen goede gif van
