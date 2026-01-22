@@ -100,7 +100,6 @@ GameObject:
   m_Component:
   - component: {fileID: 860372734109116000}
   - component: {fileID: 6583989533657727566}
-  - component: {fileID: 6931757595493188814}
   - component: {fileID: 7280291758120365759}
   m_Layer: 0
   m_Name: PeggleCombo
@@ -119,7 +118,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.82, y: -2.84, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 6707872849739629321}
@@ -161,19 +160,6 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.28}
   m_Radius: 2.66
---- !u!114 &6931757595493188814
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6439784103440010054}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 142f9d6e6c452d64391e2dfca28e9e43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  addPoints: 75
 --- !u!114 &7280291758120365759
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -186,4 +172,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 199e571c365464d40b87d10795f5de72, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BumperHit
-  scoreValue: 100
+  scoreValue: 50
+  bumpsTillDespawn: 3

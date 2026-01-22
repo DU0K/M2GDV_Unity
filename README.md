@@ -1,15 +1,19 @@
 # M2GDV_Unity
-###scripts
-#https://github.com/DU0K/M2GDV_Unity/tree/main/Assets/assets/scripts
+## scripts
+# https://github.com/DU0K/M2GDV_Unity/tree/main/Assets/assets/scripts
 
+## les 1.2
+![img](schets.jpeg)
+### hier heb ik een schets gemaakt van hoe de game er uit moet komen te zien
 
-![gif](opdracht1_2.gif)
-##les 1.2
-
-
+## les 2.2
 ![gif](opdracht2_2.gif)
-##les 2.2
+### hier heb ik het kannon gemaakt dat ballen schiet. ook heb ik hier de peggles al gemaakt
 
-
+## les 3.2
 ![gif](opdracht3_2.gif)
-##les 3.2
+### hier heb ik variatie toegevoegt in de peggles om de combosystem te laten werken deze is hier ook al toegevoegt. ik heb hier helaas geen goede gif van
+
+## les 4.2
+![gif](gameAf.gif)
+### Hier heb ik alle ui toegevoegt en ook mijn hele design veranderd in Avatar Sijl. Dit is ook het eindproduct van mijn Peggle Game
