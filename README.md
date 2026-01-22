@@ -2,6 +2,8 @@
 ## scripts
 # https://github.com/DU0K/M2GDV_Unity/tree/main/Assets/assets/scripts
 
+### Mijn inspiratie was Benthe dit zie je terug in het kannon en de ball
+
 ## les 1.2
 ![img](schets.jpeg)
 ### hier heb ik een schets gemaakt van hoe de game er uit moet komen te zien
@@ -17,3 +19,7 @@
 ## les 4.2
 ![gif](gameAf.gif)
 ### Hier heb ik alle ui toegevoegt en ook mijn hele design veranderd in Avatar Sijl. Dit is ook het eindproduct van mijn Peggle Game
+
+### Het combo systeem en de ui gingen verassend goed
+### wat vond ik lastig: Na een lange uitleg nog werken en het inhalen van werk
+### waar ben ik trots op: Ik zou dan toch zeggen mijn ontwerpen, maar ik denk dat ik veel beter kan dan wat ik heb gedaan.
